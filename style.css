@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px bisque;
+    color: bisque;
+}
+.note
+{
+    font-size: 15px;
+    color: bisque;
+}
+.copyright_footer
+{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(79, 209, 249);
+    line-height: 3;
+    text-align: center;
+    border: 4px dotted bisque;
+    font-family: cursive;
+    font-style: initial;
+    margin-bottom: 20px;
+}
+
+canvas
+{
+    border: 5px solid bisque;
+    border-style: groove;
+    border-radius: 20px;
+    background-color:rgb(79, 209, 249) ;
+    box-shadow: 5px 5px 5px bisque;
+}
